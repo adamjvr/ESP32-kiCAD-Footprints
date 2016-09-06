@@ -1,4 +1,4 @@
-(module ESP3212 (layer F.Cu) (tedit 57CE8395)
+(module ESP3212 (layer F.Cu) (tedit 57CF0F43)
   (fp_text reference REF** (at -11.557 9.017) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -52,4 +52,5 @@
   (pad 36 smd oval (at 9 2.71) (size 2.5 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 37 smd oval (at 9 3.98) (size 2.5 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 38 smd oval (at 9 5.25) (size 2.5 0.9) (layers F.Cu F.Paste F.Mask))
+  (pad 39 smd rect (at 0.3 -2.45) (size 6 6) (layers F.Cu F.Paste F.Mask))
 )

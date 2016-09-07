@@ -7,4 +7,4 @@ ESP3212 - module
 ![ESP3212 - module](ESP3212_kiCAD.png)
 
 ESP32 - 48 Pin QFN IC
-![ESP32 - IC](ESP32_kiCAD.png)
+![ESP32 - IC](ESP32_WROOM.png)

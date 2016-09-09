@@ -4,7 +4,7 @@ These footprints are current untested use at your own risk! I'll have a test boa
 soon!
 
 ESP3212 - Module
--- COMING SOON, APPOLOGIES!!
+![ESP3212 - Module](ESP3212_kiCAD.png)
 
 ESP32-WROOM - module
 ![ESP32-WROOM - module](ESP32_WROOM.png)

@@ -1,4 +1,4 @@
-(module ESP32 (layer F.Cu) (tedit 58008598)
+(module ESP32 (layer F.Cu) (tedit 580086D0)
   (solder_mask_margin 0.102)
   (fp_text reference REF** (at 0.017964 -4.589866) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -65,4 +65,9 @@
   (pad 15 smd oval (at -1.382036 2.882134) (size 0.2 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 14 smd oval (at -1.782036 2.882134) (size 0.2 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 13 smd oval (at -2.182036 2.882134) (size 0.2 0.85) (layers F.Cu F.Paste F.Mask))
+  (model "C:/Users/adam/Documents/GitHub/footprints/3D/STEP/User Library-QFN48_7x7.step"
+    (at (xyz 0 0 0))
+    (scale (xyz 0.9 1 0.9))
+    (rotate (xyz -90 0 90))
+  )
 )

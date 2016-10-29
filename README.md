@@ -4,7 +4,7 @@ These footprints are current untested use at your own risk! I'll have a test boa
 soon!
 
 ESP-32S - Module
-![ESP32S - Module](ESP-32S_kiCAD.png)
+![ESP32S - Module](ESP_32S_KiCAD.png)
 
 ESP32-WROOM - module
 ![ESP32-WROOM - module](ESP32_WROOM.png)

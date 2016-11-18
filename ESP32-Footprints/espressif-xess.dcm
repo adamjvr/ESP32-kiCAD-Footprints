@@ -114,9 +114,9 @@ K MODULE ESP32
 F https://espressif.com/sites/default/files/documentation/esp_wroom_32_datasheet_en.pdf
 $ENDCMP
 #
-$CMP ESP3212
-D ESP32 ESP3212 module, PCB antenna, 31 pins, 1.5mm.
+$CMP ESP32S
+D ESP32 ESP32S module, PCB antenna, 38 pins, 1.27mm.
 K MODULE ESP32
-F https://www.seeedstudio.com/ESP3212-Wifi-Bluetooth-Combo-Module-p-2706.html
+F http://www.shenzhen2u.com/ESP-32S
 $ENDCMP
 #End Doc Library
